@@ -34,6 +34,7 @@ a.externo::after{
 }
 
 header {
+    width: 100%;
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
     text-align: center;
@@ -184,6 +185,7 @@ aside > ul{
 }
 
 footer {
+    width: 100%;
     background-color: var(--cor5);
     color: white;
     text-align: center;
